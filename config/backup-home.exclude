@@ -1,0 +1,21 @@
+# Cache e temporarios
+.cache/
+.local/share/Trash/
+
+# Metadados de dispositivos removiveis
+.Trash-*/
+.fseventsd/
+
+# Pastas comuns de build/dependencias
+node_modules/
+.npm/
+.yarn/
+
+# Arquivos temporarios de editores/sistema
+*.swp
+*.tmp
+*~
+
+# snap
+snap
+vendor
