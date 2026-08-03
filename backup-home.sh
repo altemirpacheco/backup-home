@@ -114,6 +114,8 @@ RSYNC_OPTS=(
   --acls
   --xattrs
   --numeric-ids
+  --force
+  --delete-excluded
   --delete-delay
   --partial
   --human-readable

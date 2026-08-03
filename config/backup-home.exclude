@@ -12,6 +12,7 @@ node_modules/
 .yarn/
 
 # Arquivos temporarios de editores/sistema
+*.log
 *.swp
 *.tmp
 *~
